@@ -1,6 +1,6 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
 
-Master branch version.
+Master branch version.  Updated 20181105
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
