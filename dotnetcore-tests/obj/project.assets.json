@@ -10125,11 +10125,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\GitHub\\dotNet\\dotnet-core\\dotnetcore-tests\\dotnetcore-tests.csproj",
+      "projectUniqueName": "E:\\GitHub\\dotNet\\dotnet-core\\dotnetcore-tests\\dotnetcore-tests.csproj",
       "projectName": "dotnetcore-tests",
-      "projectPath": "e:\\GitHub\\dotNet\\dotnet-core\\dotnetcore-tests\\dotnetcore-tests.csproj",
+      "projectPath": "E:\\GitHub\\dotNet\\dotnet-core\\dotnetcore-tests\\dotnetcore-tests.csproj",
       "packagesPath": "C:\\Users\\sg0217967\\.nuget\\packages\\",
-      "outputPath": "e:\\GitHub\\dotNet\\dotnet-core\\dotnetcore-tests\\obj\\",
+      "outputPath": "E:\\GitHub\\dotNet\\dotnet-core\\dotnetcore-tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -10146,8 +10146,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "e:\\GitHub\\dotNet\\dotnet-core\\dotnetcore-sample\\dotnetcore-sample.csproj": {
-              "projectPath": "e:\\GitHub\\dotNet\\dotnet-core\\dotnetcore-sample\\dotnetcore-sample.csproj"
+            "E:\\GitHub\\dotNet\\dotnet-core\\dotnetcore-sample\\dotnetcore-sample.csproj": {
+              "projectPath": "E:\\GitHub\\dotNet\\dotnet-core\\dotnetcore-sample\\dotnetcore-sample.csproj"
             }
           }
         }
